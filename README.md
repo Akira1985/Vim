@@ -402,6 +402,12 @@ Configuration settings that have been copied from vim. Vim settings are loaded i
 
 Set `vim.vimrc.enable` to `true` and set `vim.vimrc.path` appropriately.
 
+## .vimrc support
+
+> :warning: .vimrc support is currently experimental. Only remaps are supported, and you may experience bugs. Please [report them](https://github.com/VSCodeVim/Vim/issues/new?template=bug_report.md)!
+
+Set `vim.vimrc.enable` to `true` and set `vim.vimrc.path` appropriately.
+
 ## 🖱️ Multi-Cursor Mode
 
 > :warning: Multi-Cursor mode is experimental. Please report issues in our [feedback thread.](https://github.com/VSCodeVim/Vim/issues/824)
